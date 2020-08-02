@@ -3,6 +3,7 @@ UDACITY 数据挖掘直通车纳米学位 Project 8
 
 ## 文件
 <b> Notebook Sparkify-zh.ipynb 主程序文档  
+<b> mini_sparkify_event_data.json Sparkify 日志文件（迷你子集）  
 <b> Blog.pdf blog文件
   
 ## 项目概述
