@@ -2,11 +2,8 @@
 P8 Udacity
 
 ## 文件
-<b> Notebook Sparkify-zh.ipynb
-  
-<b> Readme Readme.md
-  
-<b> Blog.pdf
+<b> Notebook Sparkify-zh.ipynb 主程序文档 
+<b> Blog.pdf blog文件
   
 ## 项目概述
 预测客户流失率是数据科学家和分析师在面向消费者的一类公司中经常遇到的一项具有挑战性的问题。本项目中，我们使用音乐云服务Sparkify的日志数据进行探索。
@@ -17,7 +14,7 @@ P8 Udacity
 最终我们训练得出的最好结果是 F1-Score = 0.758, 这一结果优于 baseline (即预测所有用户都不流失) 的分数0.680
 
 ## 数据来源
-Sparkify的日志数据集。完整的数据集大小为 12GB，这里我使用了它的一个约定128GM的迷你子集来进行分析。
+Sparkify的日志数据集。完整的数据集大小为 12GB，这里我使用了它的一个 128MB 大小的迷你子集来进行分析。
 
 ## 主要依赖库
 PySpark.sql, PySpark.ml, Pandas, Matplotlot.pylpot, Seaborn
